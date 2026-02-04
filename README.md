@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:667eea,100:764ba2&text=Aaditya%20Srinivasan&fontColor=ffffff" />
 </p>
 
-
-<h1 align="center">👋 Hey, I'm <b>Aaditya Srinivasan</b></h1>
-
 <p align="center">
 🎓 <b>B.Tech CSE</b> • SRM IST, Delhi NCR <br>
 💼 Aspiring <b>Software Engineer</b> • Backend & AI <br>
