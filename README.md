@@ -1,6 +1,6 @@
 <!-- 🌈 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:667eea,100:764ba2&text=Aaditya%20Srinivasan&fontAlign=50&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20Backend%20%26%20AI%20Enthusiast&descAlignY=70&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:667eea,100:764ba2&text=Aaditya%20Srinivasan&fontColor=ffffff" />
 </p>
 
 
