@@ -67,7 +67,9 @@ Built analytics dashboard (heatmaps + trends)
 🔥 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reranko05&theme=tokyo-night"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/Reranko05/Reranko05/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reranko05&theme=tokyo-night&hide_border=true"/>
+</p>
 🎯 Current Focus
 📌 Building scalable backend systems
 📌 Deep diving into distributed systems
