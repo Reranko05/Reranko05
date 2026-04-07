@@ -25,7 +25,7 @@ Secure authentication & authorization (JWT)
 Sub-300 ms API response times
 Deployed on AWS EC2
 
-🔗 https://github.com/Reranko05
+🔗 https://github.com/Reranko05/Multi-tenant-Cloud-File-Storage
 
 ⚡ Zoqik — Redis-like In-Memory Data Store
 
@@ -36,7 +36,7 @@ Implemented LRU eviction + TTL expiration
 Event-driven TCP server (no multithreading)
 Built for low-latency, high-performance workloads
 
-🔗 https://github.com/Reranko05
+🔗 https://github.com/Reranko05/Zoqik
 
 🧠 SafetyEye — AI Monitoring System
 
@@ -46,11 +46,11 @@ Real-time PPE detection system
 Reduced inference latency significantly
 Built analytics dashboard (heatmaps + trends)
 
-🔗 https://github.com/Reranko05
+🔗 https://github.com/Reranko05/Real-Time-CCTV-Construction-Site-Safety-Compliance-Detection-System
 
-🌍 Open Source Contributions
-✅ Contributed to Grafana k6
-🛠️ Improved CLI help output for better developer experience
+🌍 Open Source Contributions<br>
+✅ Contributed to Grafana k6<br>
+🛠️ Improved CLI help output for better developer experience<br>
 🤝 PR merged after maintainer review
 
 📈 Actively exploring more OSS issues & large-scale codebases
@@ -61,17 +61,16 @@ Built analytics dashboard (heatmaps + trends)
 ⚙️ Backend & Cloud
 <p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> </p>
 ⚡ Systems & Tools
-img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> </p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reranko05&theme=tokyonight&hide_border=true"/> </p>
 🔥 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reranko05&theme=tokyo-night"/> </p>
-</p>
-🎯 Current Focus
-📌 Building scalable backend systems
-📌 Deep diving into distributed systems
-📌 Strengthening DSA & system design
-📌 Increasing open-source contributions
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/aaditya-srinivasan"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:aadityasri03@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/Reranko05"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
-<p align="center"> ⭐ If you find my work interesting, consider starring my repositories! </p> ```
+<p>🎯 Current Focus<br>
+📌 Building scalable backend systems<br>
+📌 Deep diving into distributed systems<br>
+📌 Strengthening DSA & system design<br>
+📌 Increasing open-source contributions<br></p>
+
+<p align="center"> 🌐 Connect With Me<br><a href="https://linkedin.com/in/aaditya-srinivasan"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:aadityasri03@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/Reranko05"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
+<p align="center"> ⭐ If you find my work interesting, consider starring my repositories! </p> 
