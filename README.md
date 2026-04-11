@@ -1,7 +1,8 @@
-<!-- 🔥 Animated Banner -->
+<img src = "https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
+<!-- Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&text=Aaditya%20Srinivasan&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-</p>
+
+<h1 align="center">Aaditya Srinivasan</h1>
 
 <h2 align="center">🚀 Backend Engineer • Systems Builder • OSS Contributor</h2>
 
