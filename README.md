@@ -73,5 +73,5 @@ Built analytics dashboard (heatmaps + trends)
 📌 Strengthening DSA & system design<br>
 📌 Increasing open-source contributions<br></p>
 
-<p align="center"> 🌐 Connect With Me<br><a href="https://linkedin.com/in/aaditya-srinivasan"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:aadityasri03@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/Reranko05"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> </p>
+<p align="center"> 🌐 Connect With Me<br><a href="https://www.linkedin.com/in/aaditya-srinivasan03"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:aadityasri03@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/> </a>  </p>
 <p align="center"> ⭐ If you find my work interesting, consider starring my repositories! </p> 
