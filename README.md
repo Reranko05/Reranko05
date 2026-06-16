@@ -63,10 +63,6 @@ Built analytics dashboard (heatmaps + trends)
 <p> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> </p>
 ⚡ Systems & Tools
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reranko05&theme=tokyonight&hide_border=true"/> </p>
-🔥 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reranko05&theme=tokyo-night"/> </p>
 <p>🎯 Current Focus<br>
 📌 Building scalable backend systems<br>
 📌 Deep diving into distributed systems<br>
