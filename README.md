@@ -2,7 +2,7 @@
 import Reranko05;
 
 Reranko05 {
-    name:       {"Aaditya", "Reranko05"},
+    name:       "Aaditya Srinivasan",
     currently:  {"Apache Arrow", "Projects"},
     learning:   {"OS", "DB", "Distributed Systems"},
 
